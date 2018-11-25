@@ -11,7 +11,7 @@ function UpdateOrSkip{
 }
 function UpdateVMVersion{
     Write-Host "`t$VMName is offline." -ForegroundColor Green
-    #Update-VMVersion -VM $VM
+    Update-VMVersion -VM $VM
     Write-Host "`tVM version updated." -ForegroundColor Green
 }
  
