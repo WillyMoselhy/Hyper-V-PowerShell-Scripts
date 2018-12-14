@@ -1,2 +1,2 @@
 # Manage VM Replication on AVHDX
-![Script Flowchart](https://raw.githubusercontent.com/WillyMoselhy/Hyper-V-PowerShell-Scripts/master/ManageVMReplicationOnAVHDX/Manage-VMReplicationOnAVHDX.svg?sanitize=true)
+![Script Flowchart](Flowchart/Manage-VMReplicationOnAVHDX.svg?sanitize=true)
